@@ -1,0 +1,29 @@
+#background_grey {
+  padding: 20px;
+}
+h1{background-color:black;
+	text-align: center;
+  color:white;
+  padding:15px;
+  margin:10px 10px;
+}
+a{color:white;
+text-decoration:none;}
+.word{background-color: orange;
+margin:10px;}
+#p1{color:blue;
+margin-top: 40px;}
+#p2{color:green;}
+#p3{color:yellow;
+	margin-bottom: 40px;
+}
+p{text-align: center;
+	padding:30px;
+	margin:20px;
+}
+#background_grey{width:80%;
+margin: 0 auto;
+background-color:silver;
+ 
+    
+}
